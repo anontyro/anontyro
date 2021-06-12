@@ -28,9 +28,6 @@
 <br />
 <br />
 
-<img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anontyro&show_icons=true&hide_border=true" />
-
-
 <!--
 **anontyro/anontyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
