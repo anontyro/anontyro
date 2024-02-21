@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Alex
 
-## I'm A Frontend developer with curiosity and skills across the stack
+## I focus mostly on the Frontend usually React but often work across the stack
 
 - 🔭 I’m currently working at [Sea][company]
+- I am working full stack with NextJS and C# .Net Core on Azure
 - 🌱 I’m currently learning Elixir and spending a bit more time with functional programming
 
 ### Connect with me:
