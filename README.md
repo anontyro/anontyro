@@ -2,8 +2,8 @@
 
 ## I'm A Frontend developer with curiosity and skills across the stack
 
-- 🔭 I’m currently working at [Impala][company]
-- 🌱 I’m currently learning Vercel and expanding Next Knowledge
+- 🔭 I’m currently working at [Sea][company]
+- 🌱 I’m currently learning Elixir and spending a bit more time with functional programming
 
 ### Connect with me:
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[company]: https://impala.travel/
+[company]: https://www.sea.live/
 [website]: https://alexwilkinson.co
 [linkedin]: https://www.linkedin.com/in/wilkinsonalexander/
 [facebook]: https://www.facebook.com/AWILKINSON.SG
